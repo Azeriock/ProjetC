@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1583338523 source:c:\users\pierret\desktop\jeu_de_gamer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fonction.h"
+
+1583933820 c:\users\pierret\desktop\jeu_de_gamer\fonction.h
+
+1583936458 source:c:\users\pierret\desktop\jeu_de_gamer\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<dos.h>
+	"fonction.h"
+
+1543435348 source:c:\users\loic\desktop\jeu_de_gamer\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fonction.h"
+
+1543418870 c:\users\loic\desktop\jeu_de_gamer\fonction.h
+
+1543342076 source:c:\users\loic\desktop\jeu_de_gamer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fonction.h"
+
+1583930415 source:c:\users\rayan\desktop\jeu_de_gamer\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<dos.h>
+	"fonction.h"
+
+1583915392 c:\users\rayan\desktop\jeu_de_gamer\fonction.h
+
+1583338523 source:c:\users\rayan\desktop\jeu_de_gamer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fonction.h"
+
